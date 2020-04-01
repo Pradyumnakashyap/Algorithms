@@ -5,4 +5,6 @@
 s = 'a'
 n = 10000000000
 
+# "a" count of full string * number of string repeats + "a" count of last string
+
 print(s.count("a") * (n // len(s)) + s[:n % len(s)].count("a"))
