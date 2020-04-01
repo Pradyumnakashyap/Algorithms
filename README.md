@@ -1,7 +1,7 @@
 # Algorithms
 HackerRank Practice Algorithms
 
-Python Functions for Interview Challenges 
+Python Algorithms 
 
 Author:
 Pradyumna Kashyap <pradyumnakas@gmail.com>
