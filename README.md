@@ -1,5 +1,5 @@
 # Algorithms
-HackerRank Practice Algorithms
+Practice Algorithms
 
 Python Algorithms 
 
