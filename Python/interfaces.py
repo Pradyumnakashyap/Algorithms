@@ -1,3 +1,5 @@
+#Implement a menthod to override a Interface to calculate the sum of all the divisors of a given number
+
 import math
 
 class AdvancedArithmetic(object):
